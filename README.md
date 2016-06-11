@@ -1,2 +1,3 @@
 # Algorithms
-Algos implemented for Coursera Algorithm Courses
+Algos implemented By Me For Learning
+
